@@ -75,7 +75,6 @@
 
 <a href="#"><img  alt="Abhay's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3819&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
 
-<a href="#"><img alt="Abhay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhay3819&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
  
 [linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
 [shubhanshu's github stats]: https://github-readme-stats.vercel.app/api?username=Abhay3819
