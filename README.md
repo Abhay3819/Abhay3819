@@ -1,4 +1,4 @@
-# Hi, I'm Shubhanshu Rao (💻💖☕)
+# Hi, I'm Abhay Sharma (💻💖☕)
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=shubhanshurav&color=brightgreen&style=flat-square)](https://github.com/shubhanshurav)
 
@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning DSA and Web Development
 - 🔭 I’m currently working on Frontend projects
-- 📫 How to reach me shubhanshurao7037@gmail.com
+- 📫 How to reach me abhaysharma3819@gmail.com
 
 <br>
 
@@ -69,18 +69,18 @@
 ## 📊Github Summary:
 
 <p><img align="right" height="200" width="43%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
-<img width="55%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
+<img width="55%" alt="Abhay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abhay3819&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 <br>
 <img height="195" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
 
-<a href="#"><img  alt="Shubhanshu's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
+<a href="#"><img  alt="Abhay's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3819&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
 
-<a href="#"><img alt="shubhanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhanshurav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<a href="#"><img alt="Abhay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhay3819&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
  
 [linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
-[shubhanshu's github stats]: https://github-readme-stats.vercel.app/api?username=shubhanshurav
-[top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&layout=compact
-[profile views]: https://komarev.com/ghpvc/?username=shubhanshurav&color=brightgreen&style=flat-square
+[shubhanshu's github stats]: https://github-readme-stats.vercel.app/api?username=Abhay3819
+[top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3819&layout=compact
+[profile views]: https://komarev.com/ghpvc/?username=Abhay3819&color=brightgreen&style=flat-square
 
 <br>
 <hr>
