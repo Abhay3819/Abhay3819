@@ -19,11 +19,11 @@
 </p>   
 <br> <br>
 
-# Enjoy jokes :)
+<!-- # Enjoy jokes :)
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api"/>
    <img height="auto" width="288px" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
-</p>
+</p> -->
 
 <a href="https://github.com/shubhanshurav"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 
@@ -57,7 +57,7 @@
 <a href="#">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<a href="mailto:abhaysharma3819@gmail.com">
+<a href="#">
     <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -98,5 +98,5 @@
 
 <br>
 <hr>
- <h1><p align ="center"> Design ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Abhay Sharma!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"> I hope, you will like this Repo✌😍</p> </h1>
+<!--  <h1><p align ="center"> Design ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Abhay Sharma!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"> I hope, you will like this Repo✌😍</p> </h1> -->
 
