@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=26&pause=1000&color=28FF2D&width=800&lines=Welcome+to+my+GitHub+Profile!..🫡🫠🤗;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=26&pause=1000&color=28FF2D&width=800&lines=Welcome+to+my+GitHub+Profile!..🫡🫠🤗)](https://git.io/typing-svg)
 
 # Hi There👋, I'm Abhay Sharma!!
 
