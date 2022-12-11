@@ -1,10 +1,12 @@
-# Hi, I'm Abhay Sharma (💻💖☕)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Welcome+to+my+GitHub+Profile!..🫡🫠🤗;)](https://github.com/Abhay3819)
+
+# Hi There👋, I'm Abhay Sharma!!
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=Abhay3819&color=brightgreen&style=flat-square)](https://github.com/Abhay3819)
 
 <a><img src="https://img.shields.io/github/followers/shubhanshurav?label=Followers&style=social" alt="GitHub Badge"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Abhay+Sharma+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Abhay+Sharma+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav) -->
 
 <p href="https://github.com/shubhanshurav">
    <img align="center" height="auto" width="48%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
@@ -23,13 +25,19 @@
 
 ## I'm a CSE 3rd Year Student!!
 
-- 🌱 I’m currently learning DSA and Web Development
+- 🎯 I’m currently learning DSA & Web Development
 - 🔭 I’m currently working on Frontend projects
 - 📫 How to reach me abhaysharma3819@gmail.com
 
+## 💪Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding most of the day
+- Exercising regular at morning
+- Improving my Resume by learning new technologies day by day👍  
+
 <br>
 
-## Connect with me:
+## 📲Connect with me:
 
 <a href="https://www.facebook.com/shubhanshu.ravgautam/" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -52,7 +60,7 @@
 <br>
 <br>
 
-## Languages and Tools:
+## 🪢Languages and Tools that I know:
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
