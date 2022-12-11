@@ -47,7 +47,7 @@
 <a href="https://www.facebook.com/shubhanshu.ravgautam/" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-<a href="https://www.linkedin.com/in/%F0%9D%90%92%F0%9D%90%87%F0%9D%90%94%F0%9D%90%81%F0%9D%90%87%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%87%F0%9D%90%94-%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8E-052320208/" target="blank" >
+<a href="https://www.linkedin.com/in/abhay-sharma-584068257/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <a href="https://twitter.com/shubhanshu_rao" target="blank" >
@@ -91,7 +91,7 @@
 <a href="#"><img  alt="Abhay's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3819&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
 
  
-[linkedin]: (https://www.linkedin.com/in/abhay-sharma-584068257/)
+[linkedin]: https://www.linkedin.com/in/abhay-sharma-584068257/
 [shubhanshu's github stats]: https://github-readme-stats.vercel.app/api?username=Abhay3819
 [top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3819&layout=compact
 [profile views]: https://komarev.com/ghpvc/?username=Abhay3819&color=brightgreen&style=flat-square
