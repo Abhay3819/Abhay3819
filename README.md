@@ -4,15 +4,17 @@
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=Abhay3819&color=brightgreen&style=flat-square)](https://github.com/Abhay3819)
 
-<a><img src="https://img.shields.io/github/followers/shubhanshurav?label=Followers&style=social" alt="GitHub Badge"></a>
+<a><img src="https://img.shields.io/github/followers/Abhay3819?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Abhay+Sharma+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav) -->
 
-<p href="https://github.com/shubhanshurav">
+<!-- <p href="https://github.com/Abhay3819"> -->
 <!--    <img align="center" height="auto" width="48%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> -->
    
-   <img align="left" height="auto" width="47%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/>
-   <img align="center" height="300" width="48%" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif"/>
+<!--    <img align="left" height="auto" width="47%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/> -->
+   <img align="left" height="250" width="45%" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"/>
+   
+   <img align="center" height="300" width="45%" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif"/>
 </p>   
 <br> <br>
 
@@ -79,7 +81,7 @@
 ## 📊Github Summary:
 
 <!-- <p><img align="right" height="200" width="43%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/> -->
-<p><img align="right" height="500" width="43%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/> 
+<p><img align="right" height="400" width="43%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/> 
 
 <img width="55%" alt="Abhay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abhay3819&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 <br>
