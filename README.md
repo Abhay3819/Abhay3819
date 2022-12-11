@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Welcome+to+my+GitHub+Profile!..🫡🫠🤗;)](https://github.com/Abhay3819)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=26&pause=1000&color=28FF2D&width=800&lines=Welcome+to+my+GitHub+Profile!..🫡🫠🤗;)](https://git.io/typing-svg)
 
 # Hi There👋, I'm Abhay Sharma!!
 
@@ -12,9 +13,9 @@
 <!--    <img align="center" height="auto" width="48%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> -->
    
 <!--    <img align="left" height="auto" width="47%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/> -->
-   <img align="left" height="250" width="45%" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"/>
+   <img align="left" height="250" width="50%" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif"/>
    
-   <img align="center" height="300" width="40%" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif"/>
+   <img align="center" height="250" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>   
 <br> <br>
 
