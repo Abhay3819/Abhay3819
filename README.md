@@ -82,7 +82,7 @@
 ## 📊Github Summary:
 
 <!-- <p><img align="right" height="200" width="43%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/> -->
-<p><img align="right" height="400" width="43%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/> 
+<p><img align="right" height="350" width="43%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/> 
 
 <img width="55%" alt="Abhay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abhay3819&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 <br>
