@@ -80,15 +80,16 @@
 <br>
 
 ## 📊Github Summary:
+<p><a href="https://app.daily.dev/abhaysharma"><img width="40%" height="auto" align="left" src="https://api.daily.dev/devcards/e402ce5d35c54d479fdd9856627a719d.png?r=2ts" alt="Abhay Sharma's Dev Card"/></a></p>
 
 <!-- <p><img align="right" height="200" width="43%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/> -->
-<p><img align="right" height="350" width="40%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/> 
+<p><img align="right" height="auto" width="50%" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 
-<img width="55%" alt="Abhay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abhay3819&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
-<br>
-<img height="195" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
+<!--<img align ="left" height="250" width="40%"  alt="Abhay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abhay3819&show_icons=true&hide_border=true&theme=radical"/>&nbsp;</p> -->
 
-<a href="#"><img  alt="Abhay's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3819&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
+<img align="right" height="auto" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay3819&hide_border=true&theme=radical&layout=compact"/>
+
+<a href="https://github.com/Abhay3819"><img  alt="Abhay's streak" width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3819&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a></p>
 
  
 [linkedin]: https://www.linkedin.com/in/abhay-sharma-584068257/
