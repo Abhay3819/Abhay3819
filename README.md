@@ -1,8 +1,6 @@
 <!-- index -->
+<!-- <img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/abhay3819/count.svg" /> -->
 
-<img width="150px" alt="visitor index count" src="https://profile-counter.glitch.me/abhay3819/count.svg" />
-
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=500&size=30&duration=7000&pause=2000&color=F7C91B&width=700&lines=Hello+%2C+I'm+Abhay+Sharma+.+Thanks+for+visit+my+profile!)](https://git.io/typing-svg)
 
 
